@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 	<head>
 		<title>web by nzm store</title>
