@@ -1,1 +1,126 @@
-# website-jb-nzm-store-update.
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>web by nzm store</title>
+		<h1><center>MAU BUY AKUN?</center></h1>
+		<h2><center>88297175136 sung chat</center></h2>
+
+		<style>
+  body {
+    /* Masukkan link gambar kamu di antara tanda petik di bawah */
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/256/284/22/noragami-yato-noragami-anime-boys-wallpaper-preview.jpg');
+    
+    /* Pengaturan agar background keren dan pas di layar */
+    background-size: cover;      /* Gambar otomatis menutupi seluruh layar */
+    background-position: center;  /* Gambar fokus di tengah */
+    background-repeat: no-repeat; /* Gambar tidak mengulang (duplikat) */
+    background-attachment: fixed; /* Gambar tetap diam saat di-scroll (opsional) */
+    
+    height: 100vh;
+    margin: 0;
+  }
+  /* Taruh di file style.css */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+</style>
+
+
+
+	</head>
+		
+		
+
+
+
+
+		<style>
+  
+</style>
+
+
+		
+		<a href="https://www.tiktok.com/@nzmgtaunormalkga1?lang=id-ID" target="_blank" style="text-decoration: none;">
+    <button class="btn-tiktok">Akun TikTok Admin</button>
+</a>
+    
+</a>
+
+<style>
+  .btn-tiktok {
+    background-color: #000000; /* Warna hitam khas TikTok */
+    color: #ffffff;
+    padding: 12px 25px;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 50px; /* Membuat tombol lonjong (pill-shaped) */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+  }
+
+  .btn-tiktok:hover {
+    background-color: #fe2c55; /* Warna pink khas TikTok saat di-hover */
+    box-shadow: 0 0 15px rgba(254, 44, 85, 0.4);
+    transform: scale(1.05); /* Sedikit membesar */
+  }
+</style>
+
+
+<a href="https://www.tiktok.com/@atezelit2?lang=id-ID" target="_blank" style="text-decoration: none;">
+    <button class="btn-tiktok">Akun TikTok ke 2 Admin </button>
+</a>
+
+
+
+	
+<style>
+  .btn-tiktok {
+    background: linear-gradient(45deg, #000000, #333333); /* Gradasi hitam elegan */
+    color: white;
+    padding: 12px 25px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px; /* Bentuk kapsul */
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+  }
+
+  /* Efek saat kursor menempel */
+  .btn-tiktok:hover {
+    background: #fe2c55; /* Warna pink khas TikTok */
+    transform: scale(1.08); /* Tombol sedikit membesar */
+    box-shadow: 0 6px 20px rgba(254, 44, 85, 0.4);
+  }
+
+  /* Efek saat tombol diklik */
+  .btn-tiktok:active {
+    transform: scale(0.95);
+  }
+</style>
+<a href="https://whatsapp.com/channel/0029Vb6Id391Hsq5OVWux80O" target="_blank">
+  <button style="background-color: #008069; color: white; padding: 10px 20px; border: none; border-radius: 20px;">
+    Ikuti Saluran WA
+  </button>
+</a>
+
+    </button>
+</a>
+
+
+
+
+
+
+	
+	</html>
